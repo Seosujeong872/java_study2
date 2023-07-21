@@ -8,6 +8,7 @@ public class S03 {
 
         int num1 = 1000000;
         int num2 = 2000000;
-        System.out.println(num1 *num2);
+        System.out.println(num1*num2); // int 범위 벗어남
+       
     }
 }

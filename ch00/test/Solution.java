@@ -6,7 +6,7 @@ class Solution {
         return answer;
     }
     public static void main(String[] args) {
-        System.out.println(new Solution(),);
+        System.out.println(new Solution());
     }
 }
 

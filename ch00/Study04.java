@@ -1,3 +1,4 @@
+package ch00;
 public class Study04 {
 
     //함수
